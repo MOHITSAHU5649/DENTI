@@ -1,6 +1,6 @@
-Project Name: Flossophers
+Project Name: DENTITION
 
-Description: Flossophers is a web application designed to revolutionize dental care access and education. It provides a user-friendly platform for patients to manage appointments, access educational resources, and connect with dentists virtually.
+Description: DENTITION is a web application designed to revolutionize dental care access and education. It provides a user-friendly platform for patients to manage appointments, access educational resources, and connect with dentists virtually.
 
 Technologies:
 
