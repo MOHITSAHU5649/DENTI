@@ -4,27 +4,25 @@ Description: DENTITION is a web application designed to revolutionize dental car
 
 Technologies:
 
-Frontend:  HTML, CSS
+Frontend:  HTML, CSS, JAVASCRIPT
 
 Cloud Services:
-Azure App Service (for hosting the web application)
-Azure Cosmos DB (for storing user data and dental information)
-AI Services: [Specify the specific Azure AI service used, e.g., Azure Cognitive Services for Computer Vision]
-Purpose:
+Azure STATIC WEB APP
+AzureVIRTUAL MACHINE
+AI Services: 
+AZURE HEALTH CHATBOT
 
 This project was developed for an internship through the Future Ready Talent program, aiming to create a user-friendly and informative dental care platform.
 
-Team:
+Team
+1. https://github.com/MOHITSAHU5649
+2. https://github.com/riddhima-j
+3. https://github.com/tanuj-26heisnbrg
+4. https://github.com/Vishesh-Rajput
+ 
 
-[Team Member 1 Name] 
-[Team Member 2 Name]
-[Team Member 3 Name]
-[Team Member 4 Name] 
-
-Usage:
-
-(Describe the basic functionalities and user workflows)
-
+DESCRIPTION:-
+DENTAL OASIS  , powered by DENTITION, is a web application designed to bridge the gap between patients and qualified dental care. Our platform offers a comprehensive solution for individuals seeking to maintain optimal oral health and enhance their smiles.
 
 
 
